@@ -1,10 +1,10 @@
-# evcomp2018
+# EVComp 2018
 
 Palestra da EVComp 2018
 
-# Créditos
+# Referências
 
-[1]: https://speakerdeck.com/jakevdp/statistics-for-hackers
-[2]: http://data8.org
-[3]: http://github.com/nazareno/ciencia-de-dados-1
-[4]: http://christopherroach.com/articles/statistics-for-hackers/
+1. [Palestra original do Jake Vanderplas](https://speakerdeck.com/jakevdp/statistics-for-hackers)
+1. [Material de Berkley em Data Science](http://data8.org)
+1. [Material do Professor Nazareno da UFCG](http://github.com/nazareno/ciencia-de-dados-1)
+1. [Resumo da palestra original](http://christopherroach.com/articles/statistics-for-hackers/)
